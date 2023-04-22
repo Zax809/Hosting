@@ -1,2 +1,2 @@
 # Hosting
-Created with CodeSandbox
+Project in React.js
